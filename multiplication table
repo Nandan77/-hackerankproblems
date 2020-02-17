@@ -1,0 +1,9 @@
+
+    for(i=1;i<=10;i++)
+    {
+        scanf("%d",&n);
+        result=n*i;
+        
+        printf("%d x %d = %d\n",n,i,result);
+
+    }
